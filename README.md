@@ -1,6 +1,6 @@
 # Gravitation
 TP gravitation
 
-Noms du binome :
+Noms du binome : 
 
 Commentaires en plus :
